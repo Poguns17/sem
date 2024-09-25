@@ -2,6 +2,6 @@
 
 - **Major**: Software engineering
 - **Year**: Second
-- **Interests**: Programming
+- **Group**: 7
 
-> "Passionate about coding and solving problems."
+> "Software engineering methods"
